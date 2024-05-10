@@ -1,0 +1,9 @@
+com\Tricentis\Pages\HomePage.class
+com\Tricentis\TestCases\HomePageTest.class
+com\Tricentis\Pages\InsurantDataPage.class
+com\Tricentis\Pages\ProductDataPage.class
+com\Tricentis\TestCases\InsurantDataTest.class
+com\Tricentis\TestCases\VehicleDataTest.class
+com\Utilities\Utility.class
+com\Tricentis\Pages\VehicleDataPage.class
+com\Tricentis\TestCases\BaseClass.class
