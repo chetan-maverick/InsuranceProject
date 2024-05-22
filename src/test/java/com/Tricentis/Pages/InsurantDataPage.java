@@ -22,9 +22,7 @@ public class InsurantDataPage
 	private By nextbuttonLocator = By.xpath("//*[@id=\\\"nextenterproductdata\\\"]");
 	Select s;
 	
-	
-
-	
+		
 	public InsurantDataPage (WebDriver driver)
 	{
 		this.driver=driver;

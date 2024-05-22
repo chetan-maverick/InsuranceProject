@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-10T16:06:30 IST" name="Suite" finished-at="2024-05-10T16:06:40 IST" duration-ms="10542">
+  <suite started-at="2024-05-21T15:52:14 IST" name="Suite" finished-at="2024-05-21T15:52:30 IST" duration-ms="15603">
     <groups>
     </groups>
-    <test started-at="2024-05-10T16:06:30 IST" name="AutomobileTest" finished-at="2024-05-10T16:06:40 IST" duration-ms="10542">
+    <test started-at="2024-05-21T15:52:14 IST" name="AutomobileTest" finished-at="2024-05-21T15:52:30 IST" duration-ms="15603">
       <class name="com.Tricentis.TestCases.VehicleDataTest">
-        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:com.Tricentis.TestCases.VehicleDataTest@15c43bd9]" started-at="2024-05-10T16:06:05 IST" name="setupBrowser" finished-at="2024-05-10T16:06:30 IST" duration-ms="24969" status="PASS">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:com.Tricentis.TestCases.VehicleDataTest@76508ed1]" started-at="2024-05-21T15:52:02 IST" name="setupBrowser" finished-at="2024-05-21T15:52:14 IST" duration-ms="11804" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBrowser -->
-        <test-method signature="setVehicleData()[pri:1, instance:com.Tricentis.TestCases.VehicleDataTest@15c43bd9]" started-at="2024-05-10T16:06:30 IST" name="setVehicleData" finished-at="2024-05-10T16:06:38 IST" duration-ms="8370" status="PASS">
+        <test-method signature="setVehicleData()[pri:1, instance:com.Tricentis.TestCases.VehicleDataTest@76508ed1]" started-at="2024-05-21T15:52:14 IST" name="setVehicleData" finished-at="2024-05-21T15:52:27 IST" duration-ms="13179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setVehicleData -->
-        <test-method signature="setInsurantData()[pri:2, instance:com.Tricentis.TestCases.VehicleDataTest@15c43bd9]" started-at="2024-05-10T16:06:38 IST" name="setInsurantData" finished-at="2024-05-10T16:06:40 IST" duration-ms="2083" status="PASS">
+        <test-method signature="setInsurantData()[pri:2, instance:com.Tricentis.TestCases.VehicleDataTest@76508ed1]" started-at="2024-05-21T15:52:28 IST" name="setInsurantData" finished-at="2024-05-21T15:52:30 IST" duration-ms="2220" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setInsurantData -->
